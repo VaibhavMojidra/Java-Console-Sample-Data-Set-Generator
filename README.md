@@ -5,9 +5,9 @@ Download the Sample Data Set Generator`.jar` file [here](https://github.com/Vaib
 
 This API can generate any number of:
 
-Random Integers List
-Random Strings List
-Random Integer & String Key-Value Pairs List
-Random Integer & Integer Key-Value Pairs List
-Random String & String Key-Value Pairs List
-Random String & Integer Key-Value Pairs List
+* Random Integers List
+* Random Strings List
+* Random Integer & String Key-Value Pairs List
+* Random Integer & Integer Key-Value Pairs List
+* Random String & String Key-Value Pairs List
+* Random String & Integer Key-Value Pairs List
